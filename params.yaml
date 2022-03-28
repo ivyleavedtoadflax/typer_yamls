@@ -1,0 +1,7 @@
+evaluate:
+  ents:
+    - LOC
+    - GPE
+  models:
+    - en_core_web_md
+    - span_categorizer
